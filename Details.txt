@@ -6,6 +6,8 @@ Topics:
 
     reducer: a function which executes an operation based on a speicific value/action ( dispatch an action )
 
+    when more no of number state varaibles are requried we can prefer using useReducer
+
     reference: https://react.dev/reference/react/useReducer
 
     codesandbox: https://codesandbox.io/s/wizardly-dhawan-64g72m?file=/src/App.js
