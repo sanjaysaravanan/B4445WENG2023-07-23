@@ -1,0 +1,33 @@
+
+
+Topics:
+
+  useReducer hook:
+
+    reducer: a function which executes an operation based on a speicific value/action ( dispatch an action )
+
+    reference: https://react.dev/reference/react/useReducer
+
+    codesandbox: https://codesandbox.io/s/wizardly-dhawan-64g72m?file=/src/App.js
+
+  simple game design:
+    tictactoe
+
+    codesandbox: https://codesandbox.io/s/elastic-turing-yz5qvm?file=/src/App.js
+
+Next Session:
+  Third Party Packages for React:
+    axios:
+      third party package for making API calls / Similar functionality to fetch
+      axios was introduced before fetch
+  formik - react form handling package makes easy to handle the form validations and errors
+
+    Redesign a form to submit the user details
+  
+
+
+  
+
+
+
+  
